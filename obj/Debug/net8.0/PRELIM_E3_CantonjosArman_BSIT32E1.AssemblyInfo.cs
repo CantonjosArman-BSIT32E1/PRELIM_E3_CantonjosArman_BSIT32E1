@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PRELIM_E3_CantonjosArman_BSIT32E1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f50e89fa11eefcfd777a40d3c9be682de2f594c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08d8496b635758a93d1993f3cb6fb5f9ddd507af")]
 [assembly: System.Reflection.AssemblyProductAttribute("PRELIM_E3_CantonjosArman_BSIT32E1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PRELIM_E3_CantonjosArman_BSIT32E1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
