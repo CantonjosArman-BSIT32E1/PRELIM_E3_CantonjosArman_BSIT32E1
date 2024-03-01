@@ -18,7 +18,7 @@ namespace PRELIM_E3_CantonjosArman_BSIT32E1.Controllers
             return View();
         }
 
-        public IActionResult Schedule()
+        public IActionResult School()
         {
             return View();
         }

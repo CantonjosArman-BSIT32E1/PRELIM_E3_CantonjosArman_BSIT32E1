@@ -28,3 +28,4 @@ C:\Users\Atrjos\Desktop\Website\PRELIM_E3_CantonjosArman_BSIT32E1\PRELIM_E3_Cant
 C:\Users\Atrjos\Desktop\Website\PRELIM_E3_CantonjosArman_BSIT32E1\PRELIM_E3_CantonjosArman_BSIT32E1\obj\Debug\net8.0\PRELIM_E3_CantonjosArman_BSIT32E1.pdb
 C:\Users\Atrjos\Desktop\Website\PRELIM_E3_CantonjosArman_BSIT32E1\PRELIM_E3_CantonjosArman_BSIT32E1\obj\Debug\net8.0\PRELIM_E3_CantonjosArman_BSIT32E1.genruntimeconfig.cache
 C:\Users\Atrjos\Desktop\Website\PRELIM_E3_CantonjosArman_BSIT32E1\PRELIM_E3_CantonjosArman_BSIT32E1\obj\Debug\net8.0\ref\PRELIM_E3_CantonjosArman_BSIT32E1.dll
+C:\Users\Atrjos\Desktop\Website\PRELIM_E3_CantonjosArman_BSIT32E1\PRELIM_E3_CantonjosArman_BSIT32E1\obj\Debug\net8.0\PRELIM_E3_CantonjosArman_BSIT32E1.sourcelink.json
