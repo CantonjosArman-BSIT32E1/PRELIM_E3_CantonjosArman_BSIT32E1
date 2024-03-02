@@ -261,6 +261,10 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\Atrjos\\Desktop\\Website\\PRELIM_E3_CantonjosArman_BSIT32E1\\PRELIM_E3_CantonjosArman_BSIT32E1\\wwwroot\\png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail-removebg-preview.png",
+      "PackagePath": "staticwebassets\\png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail-removebg-preview.png"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PRELIM_E3_CantonjosArman_BSIT32E1.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

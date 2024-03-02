@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jRmV9yZeqzf+IKHiJ/6su2gTnS86slgB8OWWweCWxE8=",
+  "Hash": "LAU2jbjIuaszOrw1pSgklmJESx4euo5Om/Peeg2pevg=",
   "Source": "PRELIM_E3_CantonjosArman_BSIT32E1",
   "BasePath": "_content/PRELIM_E3_CantonjosArman_BSIT32E1",
   "Mode": "Default",
@@ -1269,6 +1269,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Atrjos\\Desktop\\Website\\PRELIM_E3_CantonjosArman_BSIT32E1\\PRELIM_E3_CantonjosArman_BSIT32E1\\wwwroot\\png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail-removebg-preview.png",
+      "SourceId": "PRELIM_E3_CantonjosArman_BSIT32E1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Atrjos\\Desktop\\Website\\PRELIM_E3_CantonjosArman_BSIT32E1\\PRELIM_E3_CantonjosArman_BSIT32E1\\wwwroot\\",
+      "BasePath": "_content/PRELIM_E3_CantonjosArman_BSIT32E1",
+      "RelativePath": "png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail-removebg-preview.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail-removebg-preview.png"
     }
   ]
 }
